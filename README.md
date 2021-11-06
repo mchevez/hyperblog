@@ -1,4 +1,4 @@
-# Hyperblog es el futuro :tw-1f49a: :tw-1f60a: :tw-1f60d:
+# Hyperblog es el futuro :green_heart: :relaxed: :heart_eyes:
 Un blog increible para el curso de [Git y GitHub](https://platzi.com/cursos/git-github/ "Git y GitHub") de Plazti
 > El curso de git y github de platzi esta muy bueno y aprendi muchas cosas hay cosas que pienso yo que tambien se pudieron abordar temas como herramientas visuales que nos ayuden a manejar git de manera mejor como github destok u otras aunque desde la consola no esta mal hay cosas que en las herramienta visuales no se ven. Mi valoracion para el curso 4 de 5 :tw-1f31f:
 

@@ -11,5 +11,10 @@ En este curso he aprendido:
 - Buenas practicas al usar repositorios
 - La multiples personalidades de freddy y que esta loco XD
 - Creado por el increible platzi team.
+<<<<<<< HEAD
+=======
+- Incluye ejemplos en Windows, Linux y Mac.
+- Disponible para todas la edades.
+>>>>>>> readme-mejorado
 
 Este Read.md fue lo mejor que pude hacer XD **No lo critiquen por favor**. Toma el curso de platzi **[En este enlace](https://platzi.com/cursos/git-github/ "En este enlace")** esta muy bueno la verdad Apesar de mis quejas que no son muchas :sweat_smile: :satisfied:

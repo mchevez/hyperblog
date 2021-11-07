@@ -10,5 +10,6 @@ En este curso he aprendido:
 - Flujos de trabajo en github
 - Buenas practicas al usar repositorios
 - La multiples personalidades de freddy y que esta loco XD
+- Creado por el increible platzi team.
 
 Este Read.md fue lo mejor que pude hacer XD **No lo critiquen por favor**. Toma el curso de platzi **[En este enlace](https://platzi.com/cursos/git-github/ "En este enlace")** esta muy bueno la verdad Apesar de mis quejas que no son muchas :sweat_smile: :satisfied:
